@@ -1,3 +1,4 @@
+package Secao10.Exception.TryCatch;
 public class Basico {
 
     public static void main(String[] args) {
